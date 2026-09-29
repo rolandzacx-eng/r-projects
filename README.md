@@ -42,8 +42,6 @@ Open any `.R` file in RStudio and run it with **Source** (or select all and pres
 - Base R plotting for quick visualizations
 - R's documentation system (`?function_name`) and style conventions
 
-More projects are added as the series continues, including further work with `ggplot2` for more advanced visualization.
-
 ## Author
 
 **Roland Emma Watega**
